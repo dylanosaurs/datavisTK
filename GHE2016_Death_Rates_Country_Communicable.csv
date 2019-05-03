@@ -1,0 +1,184 @@
+country,id,communicable
+Afghanistan,AFG,261
+Albania,ALB,26
+Algeria,DZA,69
+Angola,AGO,496
+Antigua and Barbuda,ATG,76
+Argentina,ARG,119
+Armenia,ARM,27
+Australia,AUS,30
+Austria,AUT,24
+Azerbaijan,AZE,57
+Bahamas,BHS,104
+Bahrain,BHR,14
+Bangladesh,BGD,134
+Barbados,BRB,147
+Belarus,BLR,31
+Belgium,BEL,77
+Belize,BLZ,107
+Benin,BEN,490
+Bhutan,BTN,123
+Bolivia (Plurinational State of),BOL,146
+Bosnia and Herzegovina,BIH,20
+Botswana,BWA,322
+Brazil,BRA,89
+Brunei Darussalam,BRN,30
+Bulgaria,BGR,33
+Burkina Faso,BFA,482
+Burundi,BDI,504
+Cambodia,KHM,151
+Cameroon,CMR,540
+Canada,CAN,39
+Cape Verde,CPV,107
+Central African Republic,CAF,830
+Chad,TCD,762
+Chile,CHL,50
+China,CHN,28
+Colombia,COL,59
+Comoros,COM,347
+Congo,COG,416
+Costa Rica,CRI,33
+Côte d'Ivoire,CIV,612
+Croatia,HRV,28
+Cuba,CUB,72
+Cyprus,CYP,29
+Czechia,CZE,54
+Democratic People's Republic of Korea,PRK,83
+Democratic Republic of the Congo,COD,580
+Denmark,DNK,59
+Djibouti,DJI,356
+Dominican Republic,DOM,97
+Ecuador,ECU,77
+Egypt,EGY,65
+El Salvador,SLV,72
+Equatorial Guinea,GNQ,506
+Eritrea,ERI,297
+Estonia,EST,33
+Ethiopia,ETH,335
+Fiji,FJI,73
+Finland,FIN,12
+France,FRA,52
+Gabon,GAB,379
+Gambia,GMB,419
+Georgia,GEO,39
+Germany,DEU,54
+Ghana,GHA,373
+Greece,GRC,118
+Grenada,GRD,86
+Guatemala,GTM,121
+Guinea,GIN,527
+Guinea-Bissau,GNB,564
+Guyana,GUY,169
+Haiti,HTI,257
+Honduras,HND,61
+Hungary,HUN,23
+Iceland,ISL,30
+India,IND,188
+Indonesia,IDN,148
+Iran (Islamic Republic of),IRN,37
+Iraq,IRQ,86
+Ireland,IRL,33
+Israel,ISR,54
+Italy,ITA,52
+Jamaica,JAM,77
+Japan,JPN,131
+Jordan,JOR,41
+Kazakhstan,KAZ,37
+Kenya,KEN,371
+Kiribati,KIR,198
+Kuwait,KWT,40
+Kyrgyzstan,KGZ,59
+Lao People's Democratic Republic,LAO,220
+Latvia,LVA,39
+Lebanon,LBN,23
+Lesotho,LSO,804
+Liberia,LBR,464
+Libya,LBY,43
+Lithuania,LTU,51
+Luxembourg,LUX,33
+Madagascar,MDG,290
+Malawi,MWI,406
+Malaysia,MYS,86
+Maldives,MDV,24
+Mali,MLI,620
+Malta,MLT,52
+Mauritania,MRT,402
+Mauritius,MUS,51
+Mexico,MEX,50
+Micronesia (Federated States of),FSM,113
+Mongolia,MNG,60
+Montenegro,MNE,15
+Morocco,MAR,72
+Mozambique,MOZ,583
+Myanmar,MMR,192
+Namibia,NAM,376
+Nepal,NPL,158
+Netherlands,NLD,46
+New Zealand,NZL,30
+Nicaragua,NIC,52
+Niger,NER,604
+Nigeria,NGA,717
+Norway,NOR,57
+Oman,OMN,27
+Pakistan,PAK,253
+Panama,PAN,79
+Papua New Guinea,PNG,251
+Paraguay,PRY,74
+Peru,PER,110
+Philippines,PHL,161
+Poland,POL,51
+Portugal,PRT,105
+Qatar,QAT,8
+Republic of Korea,KOR,56
+Republic of Moldova,MDA,49
+Romania,ROU,55
+Russian Federation,RUS,62
+Rwanda,RWA,235
+Saint Lucia,LCA,72
+Saint Vincent and the Grenadines,VCT,109
+Samoa,WSM,59
+Sao Tome and Principe,STP,193
+Saudi Arabia,SAU,37
+Senegal,SEN,279
+Serbia,SRB,29
+Seychelles,SYC,99
+Sierra Leone,SLE,701
+Singapore,SGP,115
+Slovakia,SVK,45
+Slovenia,SVN,48
+Solomon Islands,SLB,103
+Somalia,SOM,749
+South Africa,ZAF,372
+South Sudan,SSD,629
+Spain,ESP,46
+Sri Lanka,LKA,52
+Sudan,SDN,251
+Suriname,SUR,95
+Swaziland,SWZ,520
+Sweden,SWE,48
+Switzerland,CHE,35
+Syrian Arab Republic,SYR,42
+Tajikistan,TJK,122
+Thailand,THA,124
+The former Yugoslav Republic of Macedonia,MKD,19
+Timor-Leste,TLS,259
+Togo,TGO,439
+Tonga,TON,69
+Trinidad and Tobago,TTO,80
+Tunisia,TUN,49
+Turkey,TUR,25
+Turkmenistan,TKM,120
+Uganda,UGA,389
+Ukraine,UKR,58
+United Arab Emirates,ARE,11
+United Kingdom,GBR,70
+United Republic of Tanzania,TZA,411
+United States of America,USA,45
+Uruguay,URY,72
+Uzbekistan,UZB,56
+Vanuatu,VUT,92
+Venezuela (Bolivarian Republic of),VEN,65
+Viet Nam,VNM,66
+Yemen,YEM,181
+Zambia,ZMB,456
+Zimbabwe,ZWE,439
