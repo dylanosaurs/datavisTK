@@ -1,0 +1,401 @@
+country,cause,death
+Australia,Tuberculosis,0
+Australia,STDs excluding HIV,0
+Australia,HIV/AIDS,0
+Australia,Diarrhoeal diseases,1
+Australia,Childhood-cluster diseases,0
+Australia,Meningitis,0
+Australia,Encephalitis,1
+Australia,Hepatitis,1
+Australia,Parasitic and vector diseases,0
+Australia,Intestinal nematode infections,0
+Australia,Leprosy,0
+Australia,Other infectious diseases,7
+Australia,Lower respiratory infections,16
+Australia,Upper respiratory infections,0
+Australia,Road injury,5
+Australia,Poisonings,0
+Australia,Falls,11
+Australia,"Fire, heat and hot substances",0
+Australia,Drowning,1
+Australia,Exposure to mechanical forces,1
+Australia,Natural disasters,0
+Australia,Other unintentional injuries,7
+Australia,Self-harm,13
+Australia,Interpersonal violence,1
+Australia,Collective violence and legal intervention,0
+Canada,Tuberculosis,0
+Canada,STDs excluding HIV,0
+Canada,HIV/AIDS,1
+Canada,Diarrhoeal diseases,5
+Canada,Childhood-cluster diseases,0
+Canada,Meningitis,0
+Canada,Encephalitis,1
+Canada,Hepatitis,1
+Canada,Parasitic and vector diseases,0
+Canada,Intestinal nematode infections,0
+Canada,Leprosy,0
+Canada,Other infectious diseases,7
+Canada,Lower respiratory infections,19
+Canada,Upper respiratory infections,0
+Canada,Road injury,6
+Canada,Poisonings,0
+Canada,Falls,14
+Canada,"Fire, heat and hot substances",1
+Canada,Drowning,1
+Canada,Exposure to mechanical forces,1
+Canada,Natural disasters,0
+Canada,Other unintentional injuries,7
+Canada,Self-harm,12
+Canada,Interpersonal violence,2
+Canada,Collective violence and legal intervention,0
+China,Tuberculosis,4
+China,STDs excluding HIV,0
+China,HIV/AIDS,1
+China,Diarrhoeal diseases,1
+China,Childhood-cluster diseases,0
+China,Meningitis,0
+China,Encephalitis,0
+China,Hepatitis,1
+China,Parasitic and vector diseases,1
+China,Intestinal nematode infections,0
+China,Leprosy,0
+China,Other infectious diseases,0
+China,Lower respiratory infections,13
+China,Upper respiratory infections,0
+China,Road injury,20
+China,Poisonings,1
+China,Falls,8
+China,"Fire, heat and hot substances",1
+China,Drowning,4
+China,Exposure to mechanical forces,2
+China,Natural disasters,0
+China,Other unintentional injuries,3
+China,Self-harm,10
+China,Interpersonal violence,1
+China,Collective violence and legal intervention,0
+South Korea,Tuberculosis,43
+South Korea,STDs excluding HIV,0
+South Korea,HIV/AIDS,0
+South Korea,Diarrhoeal diseases,2
+South Korea,Childhood-cluster diseases,0
+South Korea,Meningitis,1
+South Korea,Encephalitis,1
+South Korea,Hepatitis,1
+South Korea,Parasitic and vector diseases,0
+South Korea,Intestinal nematode infections,1
+South Korea,Leprosy,0
+South Korea,Other infectious diseases,1
+South Korea,Lower respiratory infections,19
+South Korea,Upper respiratory infections,0
+South Korea,Road injury,21
+South Korea,Poisonings,2
+South Korea,Falls,7
+South Korea,"Fire, heat and hot substances",1
+South Korea,Drowning,6
+South Korea,Exposure to mechanical forces,3
+South Korea,Natural disasters,1
+South Korea,Other unintentional injuries,5
+South Korea,Self-harm,11
+South Korea,Interpersonal violence,4
+South Korea,Collective violence and legal intervention,1
+France,Tuberculosis,1
+France,STDs excluding HIV,0
+France,HIV/AIDS,1
+France,Diarrhoeal diseases,3
+France,Childhood-cluster diseases,0
+France,Meningitis,0
+France,Encephalitis,2
+France,Hepatitis,0
+France,Parasitic and vector diseases,0
+France,Intestinal nematode infections,0
+France,Leprosy,0
+France,Other infectious diseases,7
+France,Lower respiratory infections,28
+France,Upper respiratory infections,0
+France,Road injury,4
+France,Poisonings,0
+France,Falls,10
+France,"Fire, heat and hot substances",1
+France,Drowning,1
+France,Exposure to mechanical forces,0
+France,Natural disasters,0
+France,Other unintentional injuries,19
+France,Self-harm,18
+France,Interpersonal violence,1
+France,Collective violence and legal intervention,0
+Germany,Tuberculosis,0
+Germany,STDs excluding HIV,0
+Germany,HIV/AIDS,1
+Germany,Diarrhoeal diseases,8
+Germany,Childhood-cluster diseases,0
+Germany,Meningitis,0
+Germany,Encephalitis,3
+Germany,Hepatitis,1
+Germany,Parasitic and vector diseases,0
+Germany,Intestinal nematode infections,0
+Germany,Leprosy,0
+Germany,Other infectious diseases,9
+Germany,Lower respiratory infections,28
+Germany,Upper respiratory infections,0
+Germany,Road injury,4
+Germany,Poisonings,0
+Germany,Falls,16
+Germany,"Fire, heat and hot substances",0
+Germany,Drowning,1
+Germany,Exposure to mechanical forces,0
+Germany,Natural disasters,0
+Germany,Other unintentional injuries,8
+Germany,Self-harm,14
+Germany,Interpersonal violence,1
+Germany,Collective violence and legal intervention,0
+India,Tuberculosis,32
+India,STDs excluding HIV,0
+India,HIV/AIDS,5
+India,Diarrhoeal diseases,31
+India,Childhood-cluster diseases,3
+India,Meningitis,3
+India,Encephalitis,3
+India,Hepatitis,6
+India,Parasitic and vector diseases,5
+India,Intestinal nematode infections,0
+India,Leprosy,1
+India,Other infectious diseases,4
+India,Lower respiratory infections,47
+India,Upper respiratory infections,0
+India,Road injury,23
+India,Poisonings,2
+India,Falls,16
+India,"Fire, heat and hot substances",3
+India,Drowning,5
+India,Exposure to mechanical forces,1
+India,Natural disasters,0
+India,Other unintentional injuries,11
+India,Self-harm,16
+India,Interpersonal violence,4
+India,Collective violence and legal intervention,0
+Indonesia,Tuberculosis,3
+Indonesia,STDs excluding HIV,0
+Indonesia,HIV/AIDS,0
+Indonesia,Diarrhoeal diseases,2
+Indonesia,Childhood-cluster diseases,0
+Indonesia,Meningitis,0
+Indonesia,Encephalitis,2
+Indonesia,Hepatitis,1
+Indonesia,Parasitic and vector diseases,0
+Indonesia,Intestinal nematode infections,0
+Indonesia,Leprosy,0
+Indonesia,Other infectious diseases,8
+Indonesia,Lower respiratory infections,111
+Indonesia,Upper respiratory infections,0
+Indonesia,Road injury,4
+Indonesia,Poisonings,0
+Indonesia,Falls,6
+Indonesia,"Fire, heat and hot substances",1
+Indonesia,Drowning,6
+Indonesia,Exposure to mechanical forces,0
+Indonesia,Natural disasters,0
+Indonesia,Other unintentional injuries,14
+Indonesia,Self-harm,19
+Indonesia,Interpersonal violence,0
+Indonesia,Collective violence and legal intervention,0
+Japan,Tuberculosis,4
+Japan,STDs excluding HIV,0
+Japan,HIV/AIDS,23
+Japan,Diarrhoeal diseases,2
+Japan,Childhood-cluster diseases,0
+Japan,Meningitis,1
+Japan,Encephalitis,1
+Japan,Hepatitis,1
+Japan,Parasitic and vector diseases,1
+Japan,Intestinal nematode infections,0
+Japan,Leprosy,0
+Japan,Other infectious diseases,2
+Japan,Lower respiratory infections,45
+Japan,Upper respiratory infections,0
+Japan,Road injury,22
+Japan,Poisonings,0
+Japan,Falls,2
+Japan,"Fire, heat and hot substances",1
+Japan,Drowning,2
+Japan,Exposure to mechanical forces,1
+Japan,Natural disasters,0
+Japan,Other unintentional injuries,6
+Japan,Self-harm,6
+Japan,Interpersonal violence,4
+Japan,Collective violence and legal intervention,0
+Malaysia,Tuberculosis,4
+Malaysia,STDs excluding HIV,0
+Malaysia,HIV/AIDS,23
+Malaysia,Diarrhoeal diseases,2
+Malaysia,Childhood-cluster diseases,0
+Malaysia,Meningitis,1
+Malaysia,Encephalitis,1
+Malaysia,Hepatitis,1
+Malaysia,Parasitic and vector diseases,1
+Malaysia,Intestinal nematode infections,0
+Malaysia,Leprosy,0
+Malaysia,Other infectious diseases,2
+Malaysia,Lower respiratory infections,45
+Malaysia,Upper respiratory infections,0
+Malaysia,Road injury,22
+Malaysia,Poisonings,0
+Malaysia,Falls,2
+Malaysia,"Fire, heat and hot substances",1
+Malaysia,Drowning,2
+Malaysia,Exposure to mechanical forces,1
+Malaysia,Natural disasters,0
+Malaysia,Other unintentional injuries,6
+Malaysia,Self-harm,6
+Malaysia,Interpersonal violence,4
+Malaysia,Collective violence and legal intervention,0
+Philippines,Tuberculosis,27
+Philippines,STDs excluding HIV,1
+Philippines,HIV/AIDS,0
+Philippines,Diarrhoeal diseases,8
+Philippines,Childhood-cluster diseases,1
+Philippines,Meningitis,2
+Philippines,Encephalitis,2
+Philippines,Hepatitis,1
+Philippines,Parasitic and vector diseases,5
+Philippines,Intestinal nematode infections,0
+Philippines,Leprosy,0
+Philippines,Other infectious diseases,7
+Philippines,Lower respiratory infections,73
+Philippines,Upper respiratory infections,0
+Philippines,Road injury,10
+Philippines,Poisonings,0
+Philippines,Falls,3
+Philippines,"Fire, heat and hot substances",1
+Philippines,Drowning,5
+Philippines,Exposure to mechanical forces,1
+Philippines,Natural disasters,0
+Philippines,Other unintentional injuries,5
+Philippines,Self-harm,3
+Philippines,Interpersonal violence,15
+Philippines,Collective violence and legal intervention,4
+Singapore,Tuberculosis,1
+Singapore,STDs excluding HIV,0
+Singapore,HIV/AIDS,1
+Singapore,Diarrhoeal diseases,1
+Singapore,Childhood-cluster diseases,0
+Singapore,Meningitis,0
+Singapore,Encephalitis,1
+Singapore,Hepatitis,0
+Singapore,Parasitic and vector diseases,0
+Singapore,Intestinal nematode infections,0
+Singapore,Leprosy,0
+Singapore,Other infectious diseases,1
+Singapore,Lower respiratory infections,109
+Singapore,Upper respiratory infections,0
+Singapore,Road injury,3
+Singapore,Poisonings,0
+Singapore,Falls,4
+Singapore,"Fire, heat and hot substances",0
+Singapore,Drowning,0
+Singapore,Exposure to mechanical forces,0
+Singapore,Natural disasters,0
+Singapore,Other unintentional injuries,1
+Singapore,Self-harm,10
+Singapore,Interpersonal violence,0
+Singapore,Collective violence and legal intervention,0
+Thailand,Tuberculosis,12
+Thailand,STDs excluding HIV,0
+Thailand,HIV/AIDS,23
+Thailand,Diarrhoeal diseases,7
+Thailand,Childhood-cluster diseases,0
+Thailand,Meningitis,2
+Thailand,Encephalitis,1
+Thailand,Hepatitis,1
+Thailand,Parasitic and vector diseases,0
+Thailand,Intestinal nematode infections,1
+Thailand,Leprosy,0
+Thailand,Other infectious diseases,4
+Thailand,Lower respiratory infections,65
+Thailand,Upper respiratory infections,0
+Thailand,Road injury,33
+Thailand,Poisonings,0
+Thailand,Falls,7
+Thailand,"Fire, heat and hot substances",1
+Thailand,Drowning,8
+Thailand,Exposure to mechanical forces,1
+Thailand,Natural disasters,0
+Thailand,Other unintentional injuries,9
+Thailand,Self-harm,14
+Thailand,Interpersonal violence,5
+Thailand,Collective violence and legal intervention,0
+UK,Tuberculosis,1
+UK,STDs excluding HIV,0
+UK,HIV/AIDS,0
+UK,Diarrhoeal diseases,3
+UK,Childhood-cluster diseases,0
+UK,Meningitis,0
+UK,Encephalitis,1
+UK,Hepatitis,0
+UK,Parasitic and vector diseases,0
+UK,Intestinal nematode infections,0
+UK,Leprosy,0
+UK,Other infectious diseases,5
+UK,Lower respiratory infections,57
+UK,Upper respiratory infections,0
+UK,Road injury,3
+UK,Poisonings,0
+UK,Falls,10
+UK,"Fire, heat and hot substances",0
+UK,Drowning,0
+UK,Exposure to mechanical forces,1
+UK,Natural disasters,0
+UK,Other unintentional injuries,8
+UK,Self-harm,9
+UK,Interpersonal violence,1
+UK,Collective violence and legal intervention,0
+US,Tuberculosis,0
+US,STDs excluding HIV,0
+US,HIV/AIDS,2
+US,Diarrhoeal diseases,3
+US,Childhood-cluster diseases,0
+US,Meningitis,0
+US,Encephalitis,2
+US,Hepatitis,1
+US,Parasitic and vector diseases,0
+US,Intestinal nematode infections,0
+US,Leprosy,0
+US,Other infectious diseases,9
+US,Lower respiratory infections,21
+US,Upper respiratory infections,0
+US,Road injury,12
+US,Poisonings,1
+US,Falls,11
+US,"Fire, heat and hot substances",1
+US,Drowning,1
+US,Exposure to mechanical forces,1
+US,Natural disasters,0
+US,Other unintentional injuries,7
+US,Self-harm,15
+US,Interpersonal violence,7
+US,Collective violence and legal intervention,0
+Viet Nam,Tuberculosis,13
+Viet Nam,STDs excluding HIV,0
+Viet Nam,HIV/AIDS,8
+Viet Nam,Diarrhoeal diseases,4
+Viet Nam,Childhood-cluster diseases,0
+Viet Nam,Meningitis,1
+Viet Nam,Encephalitis,2
+Viet Nam,Hepatitis,1
+Viet Nam,Parasitic and vector diseases,1
+Viet Nam,Intestinal nematode infections,1
+Viet Nam,Leprosy,0
+Viet Nam,Other infectious diseases,3
+Viet Nam,Lower respiratory infections,17
+Viet Nam,Upper respiratory infections,0
+Viet Nam,Road injury,24
+Viet Nam,Poisonings,1
+Viet Nam,Falls,14
+Viet Nam,"Fire, heat and hot substances",0
+Viet Nam,Drowning,7
+Viet Nam,Exposure to mechanical forces,1
+Viet Nam,Natural disasters,0
+Viet Nam,Other unintentional injuries,7
+Viet Nam,Self-harm,7
+Viet Nam,Interpersonal violence,4
+Viet Nam,Collective violence and legal intervention,0
