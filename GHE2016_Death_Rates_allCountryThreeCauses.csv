@@ -1,0 +1,184 @@
+country,id,allCauses,"Communicable, maternal, perinatal and nutritional conditions",Noncommunicable diseases,Injuries
+Afghanistan,AFG,716,261,316,140
+Albania,ALB,891,26,830,36
+Algeria,DZA,469,69,355,45
+Angola,AGO,783,496,215,72
+Antigua and Barbuda,ATG,641,76,524,40
+Argentina,ARG,748,119,580,49
+Armenia,ARM,964,27,899,37
+Australia,AUS,661,30,592,39
+Austria,AUT,926,24,854,48
+Azerbaijan,AZE,643,57,556,30
+Bahamas,BHS,613,104,453,57
+Bahrain,BHR,196,14,163,20
+Bangladesh,BGD,525,134,351,39
+Barbados,BRB,1130,147,935,47
+Belarus,BLR,1253,31,1134,87
+Belgium,BEL,975,77,836,62
+Belize,BLZ,549,107,370,72
+Benin,BEN,905,490,323,92
+Bhutan,BTN,590,123,404,62
+Bolivia (Plurinational State of),BOL,654,146,422,86
+Bosnia and Herzegovina,BIH,1093,20,1033,40
+Botswana,BWA,700,322,320,58
+Brazil,BRA,636,89,470,78
+Brunei Darussalam,BRN,386,30,327,29
+Bulgaria,BGR,1492,33,1421,38
+Burkina Faso,BFA,855,482,279,94
+Burundi,BDI,903,504,290,109
+Cambodia,KHM,590,151,380,59
+Cameroon,CMR,1002,540,353,109
+Canada,CAN,706,39,623,43
+Cape Verde,CPV,546,107,384,55
+Central African Republic,CAF,1304,830,339,135
+Chad,TCD,1202,762,328,112
+Chile,CHL,612,50,519,44
+China,CHN,735,28,656,51
+Colombia,COL,580,59,434,87
+Comoros,COM,733,347,306,80
+Congo,COG,749,416,259,74
+Costa Rica,CRI,507,33,423,52
+Côte d'Ivoire,CIV,1168,612,434,121
+Croatia,HRV,1223,28,1131,65
+Cuba,CUB,858,72,718,68
+Cyprus,CYP,706,29,643,33
+Czechia,CZE,1015,54,913,48
+Democratic People's Republic of Korea,PRK,878,83,734,61
+Democratic Republic of the Congo,COD,941,580,264,97
+Denmark,DNK,905,59,812,34
+Djibouti,DJI,788,356,350,82
+Dominican Republic,DOM,617,97,446,74
+Ecuador,ECU,514,77,371,66
+Egypt,EGY,636,65,535,37
+El Salvador,SLV,664,72,490,102
+Equatorial Guinea,GNQ,947,506,340,101
+Eritrea,ERI,691,297,312,82
+Estonia,EST,1163,33,1079,52
+Ethiopia,ETH,684,335,269,80
+Fiji,FJI,719,73,607,39
+Finland,FIN,970,12,904,54
+France,FRA,862,52,755,55
+Gabon,GAB,758,379,311,69
+Gambia,GMB,765,419,262,84
+Georgia,GEO,1447,39,1355,53
+Germany,DEU,1124,54,1025,45
+Ghana,GHA,785,373,335,77
+Greece,GRC,1083,118,933,31
+Grenada,GRD,725,86,589,49
+Guatemala,GTM,483,121,286,76
+Guinea,GIN,946,527,332,87
+Guinea-Bissau,GNB,909,564,273,72
+Guyana,GUY,848,169,573,105
+Haiti,HTI,850,257,486,107
+Honduras,HND,433,61,288,85
+Hungary,HUN,1303,23,1222,57
+Iceland,ISL,676,30,607,39
+India,IND,723,188,453,82
+Indonesia,IDN,713,148,523,43
+Iran (Islamic Republic of),IRN,463,37,379,47
+Iraq,IRQ,510,86,279,145
+Ireland,IRL,648,33,588,28
+Israel,ISR,543,54,466,23
+Italy,ITA,1077,52,984,40
+Jamaica,JAM,685,77,548,60
+Japan,JPN,1026,131,846,50
+Jordan,JOR,385,41,302,42
+Kazakhstan,KAZ,822,37,707,78
+Kenya,KEN,586,371,159,56
+Kiribati,KIR,692,198,446,48
+Kuwait,KWT,272,40,197,35
+Kyrgyzstan,KGZ,612,59,506,47
+Lao People's Democratic Republic,LAO,699,220,417,63
+Latvia,LVA,1410,39,1295,76
+Lebanon,LBN,638,23,578,37
+Lesotho,LSO,1356,804,439,113
+Liberia,LBR,793,464,249,80
+Libya,LBY,535,43,385,107
+Lithuania,LTU,1405,51,1262,92
+Luxembourg,LUX,679,33,600,46
+Madagascar,MDG,627,290,271,66
+Malawi,MWI,680,406,215,59
+Malaysia,MYS,494,86,364,44
+Maldives,MDV,299,24,252,23
+Mali,MLI,1023,620,312,91
+Malta,MLT,811,52,734,26
+Mauritania,MRT,753,402,280,71
+Mauritius,MUS,794,51,705,38
+Mexico,MEX,512,50,409,53
+Micronesia (Federated States of),FSM,613,113,458,42
+Mongolia,MNG,617,60,492,65
+Montenegro,MNE,1036,15,985,37
+Morocco,MAR,516,72,411,33
+Mozambique,MOZ,892,583,240,70
+Myanmar,MMR,813,192,551,70
+Namibia,NAM,764,376,312,75
+Nepal,NPL,631,158,418,56
+Netherlands,NLD,878,46,786,46
+New Zealand,NZL,657,30,588,39
+Nicaragua,NIC,474,52,362,60
+Niger,NER,964,604,260,100
+Nigeria,NGA,1144,717,332,95
+Norway,NOR,779,57,678,44
+Oman,OMN,254,27,182,45
+Pakistan,PAK,726,253,420,53
+Panama,PAN,505,79,377,49
+Papua New Guinea,PNG,695,251,389,55
+Paraguay,PRY,541,74,402,65
+Peru,PER,543,110,376,57
+Philippines,PHL,641,161,432,48
+Poland,POL,1026,51,926,48
+Portugal,PRT,1034,105,885,43
+Qatar,QAT,154,8,106,40
+Republic of Korea,KOR,553,56,442,56
+Republic of Moldova,MDA,1153,49,1038,66
+Romania,ROU,1301,55,1200,46
+Russian Federation,RUS,1299,62,1136,101
+Rwanda,RWA,555,235,244,75
+Saint Lucia,LCA,746,72,612,62
+Saint Vincent and the Grenadines,VCT,814,109,659,46
+Samoa,WSM,490,59,396,34
+Sao Tome and Principe,STP,569,193,311,65
+Saudi Arabia,SAU,352,37,257,57
+Senegal,SEN,611,279,257,74
+Serbia,SRB,1217,29,1151,37
+Seychelles,SYC,833,99,672,61
+Sierra Leone,SLE,1210,701,401,108
+Singapore,SGP,506,115,372,19
+Slovakia,SVK,938,45,837,56
+Slovenia,SVN,961,48,850,63
+Solomon Islands,SLB,462,103,319,41
+Somalia,SOM,1167,749,279,138
+South Africa,ZAF,939,372,481,86
+South Sudan,SSD,992,629,271,93
+Spain,ESP,903,46,826,31
+Sri Lanka,LKA,690,52,571,67
+Sudan,SDN,712,251,372,90
+Suriname,SUR,715,95,543,77
+Swaziland,SWZ,968,520,355,93
+Sweden,SWE,927,48,833,46
+Switzerland,CHE,807,35,723,49
+Syrian Arab Republic,SYR,816,42,368,407
+Tajikistan,TJK,528,122,365,40
+Thailand,THA,783,124,580,80
+The former Yugoslav Republic of Macedonia,MKD,970,19,925,27
+Timor-Leste,TLS,567,259,257,51
+Togo,TGO,850,439,320,91
+Tonga,TON,590,69,488,33
+Trinidad and Tobago,TTO,888,80,716,91
+Tunisia,TUN,633,49,543,41
+Turkey,TUR,573,25,512,35
+Turkmenistan,TKM,699,120,532,47
+Uganda,UGA,715,389,235,90
+Ukraine,UKR,1431,58,1301,71
+United Arab Emirates,ARE,163,11,125,27
+United Kingdom,GBR,912,70,810,32
+United Republic of Tanzania,TZA,736,411,242,83
+United States of America,USA,870,45,768,57
+Uruguay,URY,951,72,807,71
+Uzbekistan,UZB,545,56,456,32
+Vanuatu,VUT,487,92,361,34
+Venezuela (Bolivarian Republic of),VEN,573,65,399,110
+Viet Nam,VNM,580,66,448,66
+Yemen,YEM,631,181,357,93
+Zambia,ZMB,752,456,220,77
+Zimbabwe,ZWE,803,439,265,99
