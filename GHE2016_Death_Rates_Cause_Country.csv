@@ -1,0 +1,369 @@
+Entity,Country,DeathRate
+Infectious and parasitic diseases,Australia,10.61
+Infectious and parasitic diseases,Canada,15.15
+Infectious and parasitic diseases,China,9.18
+Infectious and parasitic diseases,South Korea,49.67
+Infectious and parasitic diseases,France,15.40
+Infectious and parasitic diseases,Germany,22.31
+Infectious and parasitic diseases,India,90.57
+Infectious and parasitic diseases,Indonesia,97.62
+Infectious and parasitic diseases,Japan,16.96
+Infectious and parasitic diseases,Malaysia,35.04
+Infectious and parasitic diseases,Philippines,53.94
+Infectious and parasitic diseases,Singapore,4.92
+Infectious and parasitic diseases,Thailand,52.02
+Infectious and parasitic diseases,UK,10.10
+Infectious and parasitic diseases,US,17.47
+Infectious and parasitic diseases,Viet Nam,33.89
+Respiratory Infections ,Australia,16.20
+Respiratory Infections ,Canada,19.55
+Respiratory Infections ,China,12.58
+Respiratory Infections ,South Korea,18.95
+Respiratory Infections ,France,27.66
+Respiratory Infections ,Germany,28.45
+Respiratory Infections ,India,46.61
+Respiratory Infections ,Indonesia,19.24
+Respiratory Infections ,Japan,110.74
+Respiratory Infections ,Malaysia,44.62
+Respiratory Infections ,Philippines,73.51
+Respiratory Infections ,Singapore,109.10
+Respiratory Infections ,Thailand,64.72
+Respiratory Infections ,UK,57.07
+Respiratory Infections ,US,20.62
+Respiratory Infections ,Viet Nam,17.52
+Maternal conditions,Australia,0.08
+Maternal conditions,Canada,0.07
+Maternal conditions,China,0.31
+Maternal conditions,South Korea,1.09
+Maternal conditions,France,0.09
+Maternal conditions,Germany,0.07
+Maternal conditions,India,3.08
+Maternal conditions,Indonesia,3.56
+Maternal conditions,Japan,0.04
+Maternal conditions,Malaysia,0.62
+Maternal conditions,Philippines,2.78
+Maternal conditions,Singapore,0.08
+Maternal conditions,Thailand,0.24
+Maternal conditions,UK,0.11
+Maternal conditions,US,0.18
+Maternal conditions,Viet Nam,0.93
+Neonatal conditions,Australia,2.16
+Neonatal conditions,Canada,2.86
+Neonatal conditions,China,4.59
+Neonatal conditions,South Korea,11.93
+Neonatal conditions,France,2.36
+Neonatal conditions,Germany,1.63
+Neonatal conditions,India,41.52
+Neonatal conditions,Indonesia,20.44
+Neonatal conditions,Japan,0.45
+Neonatal conditions,Malaysia,5.83
+Neonatal conditions,Philippines,23.93
+Neonatal conditions,Singapore,0.82
+Neonatal conditions,Thailand,5.38
+Neonatal conditions,UK,2.50
+Neonatal conditions,US,3.63
+Neonatal conditions,Viet Nam,13.89
+Nutritional deficiencies,Australia,1.24
+Nutritional deficiencies,Canada,1.69
+Nutritional deficiencies,China,1.11
+Nutritional deficiencies,South Korea,1.51
+Nutritional deficiencies,France,6.52
+Nutritional deficiencies,Germany,1.64
+Nutritional deficiencies,India,6.26
+Nutritional deficiencies,Indonesia,7.07
+Nutritional deficiencies,Japan,2.48
+Nutritional deficiencies,Malaysia,0.30
+Nutritional deficiencies,Philippines,7.27
+Nutritional deficiencies,Singapore,0.02
+Nutritional deficiencies,Thailand,1.17
+Nutritional deficiencies,UK,0.58
+Nutritional deficiencies,US,2.99
+Nutritional deficiencies,Viet Nam,0.23
+Malignant neoplasms,Australia,189.62
+Malignant neoplasms,Canada,215.78
+Malignant neoplasms,China,167.88
+Malignant neoplasms,South Korea,167.46
+Malignant neoplasms,France,267.91
+Malignant neoplasms,Germany,287.35
+Malignant neoplasms,India,61.56
+Malignant neoplasms,Indonesia,82.84
+Malignant neoplasms,Japan,312.87
+Malignant neoplasms,Malaysia,78.53
+Malignant neoplasms,Philippines,63.80
+Malignant neoplasms,Singapore,150.02
+Malignant neoplasms,Thailand,137.61
+Malignant neoplasms,UK,255.65
+Malignant neoplasms,US,194.83
+Malignant neoplasms,Viet Nam,108.16
+Other neoplasms,Australia,5.39
+Other neoplasms,Canada,4.45
+Other neoplasms,China,2.86
+Other neoplasms,South Korea,1.28
+Other neoplasms,France,11.76
+Other neoplasms,Germany,9.81
+Other neoplasms,India,1.08
+Other neoplasms,Indonesia,1.08
+Other neoplasms,Japan,9.89
+Other neoplasms,Malaysia,2.83
+Other neoplasms,Philippines,3.03
+Other neoplasms,Singapore,2.15
+Other neoplasms,Thailand,3.69
+Other neoplasms,UK,6.02
+Other neoplasms,US,5.13
+Other neoplasms,Viet Nam,1.03
+Diabetes mellitus,Australia,19.71
+Diabetes mellitus,Canada,19.13
+Diabetes mellitus,China,11.85
+Diabetes mellitus,South Korea,12.54
+Diabetes mellitus,France,19.12
+Diabetes mellitus,Germany,30.23
+Diabetes mellitus,India,23.33
+Diabetes mellitus,Indonesia,39.37
+Diabetes mellitus,Japan,11.31
+Diabetes mellitus,Malaysia,14.86
+Diabetes mellitus,Philippines,24.71
+Diabetes mellitus,Singapore,7.11
+Diabetes mellitus,Thailand,34.75
+Diabetes mellitus,UK,9.96
+Diabetes mellitus,US,26.18
+Diabetes mellitus,Viet Nam,21.95
+"Endocrine, blood, immune disorders",Australia,9.42
+"Endocrine, blood, immune disorders",Canada,8.91
+"Endocrine, blood, immune disorders",China,1.71
+"Endocrine, blood, immune disorders",South Korea,1.83
+"Endocrine, blood, immune disorders",France,10.80
+"Endocrine, blood, immune disorders",Germany,12.20
+"Endocrine, blood, immune disorders",India,1.60
+"Endocrine, blood, immune disorders",Indonesia,2.82
+"Endocrine, blood, immune disorders",Japan,8.18
+"Endocrine, blood, immune disorders",Malaysia,2.03
+"Endocrine, blood, immune disorders",Philippines,6.06
+"Endocrine, blood, immune disorders",Singapore,0.64
+"Endocrine, blood, immune disorders",Thailand,3.14
+"Endocrine, blood, immune disorders",UK,4.77
+"Endocrine, blood, immune disorders",US,14.09
+"Endocrine, blood, immune disorders",Viet Nam,2.38
+Mental and substance use disorders,Australia,6.94
+Mental and substance use disorders,Canada,7.29
+Mental and substance use disorders,China,3.20
+Mental and substance use disorders,South Korea,3.60
+Mental and substance use disorders,France,9.23
+Mental and substance use disorders,Germany,10.02
+Mental and substance use disorders,India,2.35
+Mental and substance use disorders,Indonesia,0.81
+Mental and substance use disorders,Japan,1.79
+Mental and substance use disorders,Malaysia,2.26
+Mental and substance use disorders,Philippines,2.47
+Mental and substance use disorders,Singapore,0.51
+Mental and substance use disorders,Thailand,4.64
+Mental and substance use disorders,UK,5.70
+Mental and substance use disorders,US,14.93
+Mental and substance use disorders,Viet Nam,1.98
+Neurological conditions,Australia,78.19
+Neurological conditions,Canada,87.57
+Neurological conditions,China,44.87
+Neurological conditions,South Korea,28.44
+Neurological conditions,France,99.49
+Neurological conditions,Germany,88.59
+Neurological conditions,India,15.78
+Neurological conditions,Indonesia,24.62
+Neurological conditions,Japan,41.75
+Neurological conditions,Malaysia,24.81
+Neurological conditions,Philippines,4.87
+Neurological conditions,Singapore,3.93
+Neurological conditions,Thailand,63.71
+Neurological conditions,UK,149.91
+Neurological conditions,US,102.12
+Neurological conditions,Viet Nam,38.13
+Sense organ diseases,Australia,0.05
+Sense organ diseases,Canada,0.03
+Sense organ diseases,China,0.00
+Sense organ diseases,South Korea,0.00
+Sense organ diseases,France,0.08
+Sense organ diseases,Germany,0.03
+Sense organ diseases,India,0.00
+Sense organ diseases,Indonesia,0.00
+Sense organ diseases,Japan,0.01
+Sense organ diseases,Malaysia,0.00
+Sense organ diseases,Philippines,0.05
+Sense organ diseases,Singapore,0.05
+Sense organ diseases,Thailand,0.00
+Sense organ diseases,UK,0.05
+Sense organ diseases,US,0.03
+Sense organ diseases,Viet Nam,0.00
+Cardiovascular diseases,Australia,182.55
+Cardiovascular diseases,Canada,175.48
+Cardiovascular diseases,China,317.10
+Cardiovascular diseases,South Korea,347.24
+Cardiovascular diseases,France,221.57
+Cardiovascular diseases,Germany,419.38
+Cardiovascular diseases,India,195.60
+Cardiovascular diseases,Indonesia,250.87
+Cardiovascular diseases,Japan,280.79
+Cardiovascular diseases,Malaysia,173.07
+Cardiovascular diseases,Philippines,225.70
+Cardiovascular diseases,Singapore,145.57
+Cardiovascular diseases,Thailand,181.11
+Cardiovascular diseases,UK,228.68
+Cardiovascular diseases,US,259.87
+Cardiovascular diseases,Viet Nam,182.21
+Respiratory diseases,Australia,48.65
+Respiratory diseases,Canada,51.28
+Respiratory diseases,China,66.47
+Respiratory diseases,South Korea,124.40
+Respiratory diseases,France,48.01
+Respiratory diseases,Germany,71.83
+Respiratory diseases,India,76.82
+Respiratory diseases,Indonesia,39.72
+Respiratory diseases,Japan,90.05
+Respiratory diseases,Malaysia,20.20
+Respiratory diseases,Philippines,40.89
+Respiratory diseases,Singapore,15.38
+Respiratory diseases,Thailand,44.65
+Respiratory diseases,UK,76.04
+Respiratory diseases,US,76.65
+Respiratory diseases,Viet Nam,32.39
+Digestive diseases,Australia,25.04
+Digestive diseases,Canada,29.66
+Digestive diseases,China,19.70
+Digestive diseases,South Korea,25.14
+Digestive diseases,France,38.43
+Digestive diseases,Germany,49.52
+Digestive diseases,India,38.50
+Digestive diseases,Indonesia,52.24
+Digestive diseases,Japan,45.30
+Digestive diseases,Malaysia,20.71
+Digestive diseases,Philippines,21.69
+Digestive diseases,Singapore,12.14
+Digestive diseases,Thailand,41.74
+Digestive diseases,UK,43.54
+Digestive diseases,US,36.67
+Digestive diseases,Viet Nam,29.67
+Genitourinary diseases,Australia,15.09
+Genitourinary diseases,Canada,14.21
+Genitourinary diseases,China,15.16
+Genitourinary diseases,South Korea,14.62
+Genitourinary diseases,France,16.35
+Genitourinary diseases,Germany,36.46
+Genitourinary diseases,India,23.01
+Genitourinary diseases,Indonesia,19.42
+Genitourinary diseases,Japan,34.66
+Genitourinary diseases,Malaysia,15.77
+Genitourinary diseases,Philippines,25.66
+Genitourinary diseases,Singapore,28.29
+Genitourinary diseases,Thailand,52.11
+Genitourinary diseases,UK,16.05
+Genitourinary diseases,US,26.70
+Genitourinary diseases,Viet Nam,18.80
+Skin diseases,Australia,2.15
+Skin diseases,Canada,1.35
+Skin diseases,China,0.52
+Skin diseases,South Korea,0.51
+Skin diseases,France,2.05
+Skin diseases,Germany,1.94
+Skin diseases,India,1.00
+Skin diseases,Indonesia,1.27
+Skin diseases,Japan,1.47
+Skin diseases,Malaysia,3.17
+Skin diseases,Philippines,1.87
+Skin diseases,Singapore,3.22
+Skin diseases,Thailand,5.71
+Skin diseases,UK,3.10
+Skin diseases,US,1.61
+Skin diseases,Viet Nam,1.48
+Musculoskeletal diseases,Australia,5.52
+Musculoskeletal diseases,Canada,4.91
+Musculoskeletal diseases,China,1.52
+Musculoskeletal diseases,South Korea,1.50
+Musculoskeletal diseases,France,6.70
+Musculoskeletal diseases,Germany,4.81
+Musculoskeletal diseases,India,3.72
+Musculoskeletal diseases,Indonesia,0.66
+Musculoskeletal diseases,Japan,5.19
+Musculoskeletal diseases,Malaysia,0.88
+Musculoskeletal diseases,Philippines,1.67
+Musculoskeletal diseases,Singapore,2.05
+Musculoskeletal diseases,Thailand,2.32
+Musculoskeletal diseases,UK,7.02
+Musculoskeletal diseases,US,4.53
+Musculoskeletal diseases,Viet Nam,0.45
+Congenital anomalies,Australia,3.00
+Congenital anomalies,Canada,2.97
+Congenital anomalies,China,3.08
+Congenital anomalies,South Korea,5.05
+Congenital anomalies,France,2.96
+Congenital anomalies,Germany,2.54
+Congenital anomalies,India,7.94
+Congenital anomalies,Indonesia,6.62
+Congenital anomalies,Japan,2.20
+Congenital anomalies,Malaysia,4.56
+Congenital anomalies,Philippines,8.93
+Congenital anomalies,Singapore,1.32
+Congenital anomalies,Thailand,4.17
+Congenital anomalies,UK,3.51
+Congenital anomalies,US,4.00
+Congenital anomalies,Viet Nam,9.36
+Oral conditions,Australia,0.12
+Oral conditions,Canada,0.10
+Oral conditions,China,0.00
+Oral conditions,South Korea,0.00
+Oral conditions,France,0.15
+Oral conditions,Germany,0.07
+Oral conditions,India,0.04
+Oral conditions,Indonesia,0.00
+Oral conditions,Japan,0.06
+Oral conditions,Malaysia,0.00
+Oral conditions,Philippines,0.04
+Oral conditions,Singapore,0.04
+Oral conditions,Thailand,0.00
+Oral conditions,UK,0.09
+Oral conditions,US,0.09
+Oral conditions,Viet Nam,0.00
+Sudden infant death syndrome,Australia,0.25
+Sudden infant death syndrome,Canada,0.18
+Sudden infant death syndrome,China,0.05
+Sudden infant death syndrome,South Korea,0.09
+Sudden infant death syndrome,France,0.19
+Sudden infant death syndrome,Germany,0.13
+Sudden infant death syndrome,India,0.43
+Sudden infant death syndrome,Indonesia,0.31
+Sudden infant death syndrome,Japan,0.12
+Sudden infant death syndrome,Malaysia,0.08
+Sudden infant death syndrome,Philippines,0.49
+Sudden infant death syndrome,Singapore,0.05
+Sudden infant death syndrome,Thailand,0.22
+Sudden infant death syndrome,UK,0.17
+Sudden infant death syndrome,US,0.45
+Sudden infant death syndrome,Viet Nam,0.31
+Unintentional injuries,Australia,24.82
+Unintentional injuries,Canada,29.45
+Unintentional injuries,China,40.39
+Unintentional injuries,South Korea,44.71
+Unintentional injuries,France,36.03
+Unintentional injuries,Germany,30.45
+Unintentional injuries,India,61.31
+Unintentional injuries,Indonesia,34.94
+Unintentional injuries,Japan,30.91
+Unintentional injuries,Malaysia,34.33
+Unintentional injuries,Philippines,25.83
+Unintentional injuries,Singapore,8.75
+Unintentional injuries,Thailand,60.08
+Unintentional injuries,UK,21.62
+Unintentional injuries,US,34.94
+Unintentional injuries,Viet Nam,54.36
+Intentional injuries,Australia,14.32
+Intentional injuries,Canada,13.98
+Intentional injuries,China,10.76
+Intentional injuries,South Korea,16.60
+Intentional injuries,France,18.74
+Intentional injuries,Germany,14.36
+Intentional injuries,India,20.50
+Intentional injuries,Indonesia,7.98
+Intentional injuries,Japan,18.81
+Intentional injuries,Malaysia,9.64
+Intentional injuries,Philippines,22.14
+Intentional injuries,Singapore,10.20
+Intentional injuries,Thailand,19.63
+Intentional injuries,UK,10.17
+Intentional injuries,US,22.04
+Intentional injuries,Viet Nam,11.25
