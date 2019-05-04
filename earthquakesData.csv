@@ -1,44 +1,4 @@
 Country,Year,Death_Injuries_Missing
-Australia,1999,0
-Australia,2000,0
-Australia,2001,0
-Australia,2002,3
-Australia,2003,0
-Australia,2004,0
-Australia,2005,0
-Australia,2006,0
-Australia,2007,0
-Australia,2008,0
-Australia,2009,0
-Australia,2010,0
-Australia,2011,0
-Australia,2012,0
-Australia,2013,0
-Australia,2014,0
-Australia,2015,0
-Australia,2016,0
-Australia,2017,0
-Australia,2018,0
-Canada,1999,0
-Canada,2000,0
-Canada,2001,0
-Canada,2002,0
-Canada,2003,0
-Canada,2004,0
-Canada,2005,0
-Canada,2006,0
-Canada,2007,0
-Canada,2008,0
-Canada,2009,0
-Canada,2010,0
-Canada,2011,0
-Canada,2012,1
-Canada,2013,0
-Canada,2014,0
-Canada,2015,0
-Canada,2016,0
-Canada,2017,0
-Canada,2018,0
 China,1999,11265
 China,2000,3026
 China,2001,942
@@ -119,26 +79,6 @@ Japan,2015,12
 Japan,2016,1572
 Japan,2017,0
 Japan,2018,1097
-Malaysia,1999,0
-Malaysia,2000,0
-Malaysia,2001,0
-Malaysia,2002,0
-Malaysia,2003,0
-Malaysia,2004,0
-Malaysia,2005,0
-Malaysia,2006,0
-Malaysia,2007,0
-Malaysia,2008,0
-Malaysia,2009,0
-Malaysia,2010,0
-Malaysia,2011,0
-Malaysia,2012,0
-Malaysia,2013,0
-Malaysia,2014,0
-Malaysia,2015,18
-Malaysia,2016,0
-Malaysia,2017,0
-Malaysia,2018,0
 Philippines,1999,45
 Philippines,2000,6
 Philippines,2001,0
@@ -159,46 +99,6 @@ Philippines,2015,1
 Philippines,2016,0
 Philippines,2017,717
 Philippines,2018,0
-South Korea,1999,0
-South Korea,2000,0
-South Korea,2001,0
-South Korea,2002,0
-South Korea,2003,0
-South Korea,2004,0
-South Korea,2005,0
-South Korea,2006,0
-South Korea,2007,0
-South Korea,2008,0
-South Korea,2009,0
-South Korea,2010,0
-South Korea,2011,0
-South Korea,2012,0
-South Korea,2013,0
-South Korea,2014,0
-South Korea,2015,0
-South Korea,2016,15
-South Korea,2017,90
-South Korea,2018,0
-UK,1999,0
-UK,2000,0
-UK,2001,0
-UK,2002,1
-UK,2003,0
-UK,2004,0
-UK,2005,0
-UK,2006,0
-UK,2007,1
-UK,2008,1
-UK,2009,0
-UK,2010,0
-UK,2011,0
-UK,2012,0
-UK,2013,0
-UK,2014,0
-UK,2015,0
-UK,2016,0
-UK,2017,0
-UK,2018,0
 US,1999,4
 US,2000,41
 US,2001,401
